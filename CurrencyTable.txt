@@ -1,0 +1,25 @@
+Argentine Peso	97.487833	0.010258
+Australian Dollar	1.370572	0.729622
+Bahraini Dinar	0.376000	2.659574
+Botswana Pula	11.214278	0.089172
+Brazilian Real	5.200313	0.192296
+British Pound	0.726859	1.375783
+Bruneian Dollar	1.345867	0.743016
+Bulgarian Lev	1.657951	0.603154
+Canadian Dollar	1.261544	0.792679
+Chilean Peso	783.218157	0.001277
+Chinese Yuan Renminbi	6.467863	0.154611
+Colombian Peso	3829.485621	0.000261
+Croatian Kuna	6.353790	0.157386
+Czech Koruna	21.662261	0.046163
+Danish Krone	6.303637	0.158639
+Emirati Dirham	3.672500	0.272294
+Euro	0.847697	1.179667
+Hong Kong Dollar	7.786835	0.128422
+Hungarian Forint	295.232151	0.003387
+Icelandic Krona	126.649794	0.007896
+Indian Rupee	73.264430	0.013649
+Indonesian Rupiah	14362.664789	0.000070
+Iranian Rial	42025.318495	0.000024
+Israeli Shekel 3.223283	0.310243
+Japanese Yen	109.850075	0.009103     
